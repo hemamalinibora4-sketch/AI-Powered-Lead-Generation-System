@@ -1,6 +1,20 @@
- # AI-Powered Lead Generation System
+# AI-Powered Lead Generation System
 
 Salesforce-based lead scoring and qualification system that combines native automation (Flow) with Agentforce (Einstein GPT) to score leads and generate AI-written summaries for sales representatives.
+
+---
+
+# Project Information
+
+| **Field**         | **Details**                                   |
+| ----------------- | --------------------------------------------- |
+| **Project Title** | AI-Powered Lead Generation System             |
+| **Department**    | Computer Science & Engineering                |
+| **Institution**   | Ideal Institute of Technology, Andhra Pradesh |
+| **Platform**      | Salesforce Developer Edition                  |
+| **Duration**      | Approximately 4 Hours                         |
+| **Audience**      | University Students / Salesforce Beginners    |
+| **AI Engine**     | Agentforce (Einstein GPT) via Prompt Builder  |
 
 ---
 
@@ -76,29 +90,6 @@ This repository contains the complete design and implementation documentation fo
 
 ---
 
-# Project Team
-
-## Team Leader
-
-**Hemamalini Bora**
-📧 Email: [hemamalinibora4@gmail.com](mailto:hemamalinibora4@gmail.com)
-
-## Team Members
-
-* **Trivenisandhya Irla**
-  📧 Email: [trivenisandhyairla@gmail.com](mailto:trivenisandhyairla@gmail.com)
-
-* **Kappala Salomi Vennela**
-  📧 Email: [salomijasmi020@gmail.com](mailto:salomijasmi020@gmail.com)
-
-* **Naga Uday Bhaskar Erothu**
-  📧 Email: [nagaudaybhaskarerothu@gmail.com](mailto:nagaudaybhaskarerothu@gmail.com)
-
-* **Chakri Kumar Gubbala**
-  📧 Email: [chakrikumar098@gmail.com](mailto:chakrikumar098@gmail.com)
-
----
-
 # Project Authors
 
 **Prepared By**
@@ -109,14 +100,23 @@ This repository contains the complete design and implementation documentation fo
 
 ---
 
-# Project Information
+# Project Team
 
-| **Field**         | **Details**                                   |
-| ----------------- | --------------------------------------------- |
-| **Project Title** | AI-Powered Lead Generation System             |
-| **Department**    | Computer Science & Engineering                |
-| **Institution**   | Ideal Institute of Technology, Andhra Pradesh |
-| **Platform**      | Salesforce Developer Edition                  |
-| **Duration**      | Approximately 4 Hours                         |
-| **Audience**      | University Students / Salesforce Beginners    |
-| **AI Engine**     | Agentforce (Einstein GPT) via Prompt Builder  |
+## Team Leader
+
+**Hemamalini Bora**
+📧 **Email:** [hemamalinibora4@gmail.com](mailto:hemamalinibora4@gmail.com)
+
+## Team Members
+
+* **Trivenisandhya Irla**
+  📧 **Email:** [trivenisandhyairla@gmail.com](mailto:trivenisandhyairla@gmail.com)
+
+* **Kappala Salomi Vennela**
+  📧 **Email:** [salomijasmi020@gmail.com](mailto:salomijasmi020@gmail.com)
+
+* **Naga Uday Bhaskar Erothu**
+  📧 **Email:** [nagaudaybhaskarerothu@gmail.com](mailto:nagaudaybhaskarerothu@gmail.com)
+
+* **Chakri Kumar Gubbala**
+  📧 **Email:** [chakrikumar098@gmail.com](mailto:chakrikumar098@gmail.com)
