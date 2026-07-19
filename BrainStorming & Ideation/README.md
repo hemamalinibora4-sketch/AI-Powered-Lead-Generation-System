@@ -1,1 +1,0 @@
-BrainStorming & Ideation
